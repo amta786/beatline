@@ -1,0 +1,6 @@
+{
+  "name": "Beatline",
+  "description": "A premium, high-fashion editorial music media blog and interactive charts platform inspired by Billboard, featuring live AI-powered music news generation, reviews, and dynamic audio synthesizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
